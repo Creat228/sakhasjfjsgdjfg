@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+  background-image:linear-gradient(to right,white,blue,red) ;
+}	
+.aura {
+        font-family: sans-serif;
+        font-size: 20px;
+}
+.link-nav {
+    border-style:double ;
+    border-color: red;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
